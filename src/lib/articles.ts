@@ -1,4 +1,4 @@
-import heroCanada from "@/assets/hero-quebec.jpg"; // Reusing assets for now
+import heroCanada from "@/assets/hero-canada.png";
 import politique from "@/assets/politique.jpg";
 import environnement from "@/assets/environnement.jpg";
 import culture from "@/assets/culture.jpg";
@@ -45,8 +45,8 @@ export const articles: Article[] = [
     category: "politique",
     image: heroCanada,
     imageCaption: {
-      fr: "Nouveaux développements urbains à Toronto. Photo : Canada Daily.",
-      en: "New urban developments in Toronto. Photo: Canada Daily.",
+      fr: "Le parlement du Canada à Ottawa au lever du soleil. Photo : Canada Daily.",
+      en: "The Canadian Parliament in Ottawa at sunrise. Photo: Canada Daily.",
     },
     author: "Sarah Johnston",
     readMin: 10,
